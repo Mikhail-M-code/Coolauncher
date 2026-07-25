@@ -1,0 +1,2 @@
+# Coolauncher
+A minecraft launcher
