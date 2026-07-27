@@ -7,6 +7,9 @@ Download launcher > [Releases](https://github.com/Mikhail-M-code/Coolauncher/rel
 # System Requirements
 OS Windows 7 SP1 / 8 / 10 / 11 (64-bit)
 
+# Launcher Requirement
+Java 8 
+
 # Description
 
 The launcher is based on the Python library minecraft_launcher_lib
